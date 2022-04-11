@@ -1,0 +1,3 @@
+﻿  biao.cpp
+D:\Documents\Code\C++\数据结构作业\顺序表\biao.cpp(254,11): warning C4101: “e”: 未引用的局部变量
+  顺序表.vcxproj -> D:\Documents\Code\C++\数据结构作业\顺序表\x64\Debug\顺序表.exe
